@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am an enthusiastic, responsible and hard-working self-taught developer from Ukraine. ',
   paragraphTwo: 'Skillsets: Javascript, React, Redux, GraphQL, Node.js, Postgresql, mySQL.',
   paragraphThree: 'I can work hard and am a person, passionate about learning new technologies. I’m currently improving my front-end skills and teaching myself back-end development (Node.js and Python).',
-  resume: 'https://drive.google.com/file/d/1RwTL2I8xNrmU2rNBWpfMRwQT04X7s3bT/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'http://tiny.cc/stf5tz', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
