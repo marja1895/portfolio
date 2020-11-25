@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.png',
     title: 'Robofriends',
-    info: '',
+    info: 'Simple app, which uses React and Redux. In this app, we take a list of users from https://jsonplaceholder.typicode.com/users and make robots from each item using https://robohash.org. Also, we can search for robots by the person\'s name.',
     info2: '',
     url: 'https://marja1895.github.io/robofriends/',
     repo: 'https://github.com/marja1895/robofriends', // if no repo, the button will not show up
